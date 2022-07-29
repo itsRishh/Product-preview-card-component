@@ -1,0 +1,113 @@
+.attribution{
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    text-align: center;
+    background-color: hsl(30, 38%, 92%);
+    margin: 0 auto;
+}
+
+.attribution a{
+    text-decoration: none;
+    color: #876445;
+    font-weight: bold;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(30, 38%, 92%);
+}
+
+.base{
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card{
+    width: 610px;
+    height: 450px;
+    margin: 200px auto;
+}
+
+.col{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 0 8px 8px 0;
+    display: inline-block;
+    position: relative;
+    bottom: 43px;
+    right: 4px;
+    width: 260px;
+    height: 440px;
+    padding: 10px 15px 1px 25px;
+}
+
+.p-img{
+    display: inline-block;
+    width: 300px;
+    height: 450px;
+}
+
+.pro-des{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.3em;
+    font-size: smaller;
+    margin-top: 22px;
+}
+
+.pro-head{
+    color: hsl(212, 21%, 14%);
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    line-height: 1;
+    font-size: 2em;
+}
+
+.pro-bio{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    font-size: small;
+}
+
+.pro-dis{
+    font-family: 'Fraunces', serif;
+    color: hsl(158, 36%, 37%);
+}
+
+.pro-buy{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: small;
+    color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    background-color: hsl(158, 36%, 37%);
+    padding: 15px 75px;
+}
+
+.pro-buy:hover{
+    background-color: rgb(25, 88, 65);
+}
+
+.pro-pre{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+    font-size: small;
+}
+
+.pro-cart-img{
+    position: relative;
+    top: 2px;
+    right: 6px;
+    height: 13px;
+    width: 12px;
+}
+
+.pro-img{
+    border-radius: 8px 0 0 8px;
+    display: inline-block;
+    width: 300px;
+    height: 450px;
+}
